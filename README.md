@@ -6,7 +6,7 @@ Lower-limb exoskeleton concept showcase · Maintained by [Genius-two](https://gi
 
 ## 结构概览
 
-![下肢外骨骼结构标注图](structure-overview.png)
+![下肢外骨骼结构标注图](https://github.com/Genius-two/lower-limb-exoskeleton-showcase/releases/download/showcase-20261111/structure-overview.png)
 
 - 左右髋关节和左右膝关节分别驱动，膝采用固定单轴旋转。
 - 电机与减速器集成驱动，腿杆采用可调长度结构。
@@ -18,12 +18,12 @@ Lower-limb exoskeleton concept showcase · Maintained by [Genius-two](https://gi
 
 | 场景 | 视频 |
 |---|---|
-| 平地行走 | [观看视频](Concept_Walking.mp4) |
-| 上楼 | [观看视频](Concept_StepUp.mp4) |
-| 下楼 | [观看视频](Concept_StepDown.mp4) |
-| 起立 | [观看视频](Concept_SitToStand.mp4) |
-| 坐下 | [观看视频](Concept_StandToSit.mp4) |
-| 康复动作示意 | [观看视频](Concept_Rehab_Concept.mp4) |
+| 平地行走 | [观看视频](https://github.com/Genius-two/lower-limb-exoskeleton-showcase/releases/download/showcase-20261111/Concept_Walking.mp4) |
+| 上楼 | [观看视频](https://github.com/Genius-two/lower-limb-exoskeleton-showcase/releases/download/showcase-20261111/Concept_StepUp.mp4) |
+| 下楼 | [观看视频](https://github.com/Genius-two/lower-limb-exoskeleton-showcase/releases/download/showcase-20261111/Concept_StepDown.mp4) |
+| 起立 | [观看视频](https://github.com/Genius-two/lower-limb-exoskeleton-showcase/releases/download/showcase-20261111/Concept_SitToStand.mp4) |
+| 坐下 | [观看视频](https://github.com/Genius-two/lower-limb-exoskeleton-showcase/releases/download/showcase-20261111/Concept_StandToSit.mp4) |
+| 康复动作示意 | [观看视频](https://github.com/Genius-two/lower-limb-exoskeleton-showcase/releases/download/showcase-20261111/Concept_Rehab_Concept.mp4) |
 
 点击文件可查看或下载；GitHub未直接播放时，可下载到本地播放器观看。康复视频只是关节重复屈伸的工程示意，不代表经过临床验证的训练方案。
 
